@@ -3,4 +3,4 @@
 
 참고자료
 =============
-[R을 활용한 캠페인 반응율 분석](https://blog.naver.com/bestinall/222304014503)
+[R을활용한캠페인반응율분석](https://blog.naver.com/bestinall/222304014503)

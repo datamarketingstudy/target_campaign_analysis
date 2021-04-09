@@ -213,4 +213,4 @@ games.howell <- function(grp, obs) {
 
 games.howell(grp = sample_dt$GROUP, obs = sample_dt$RESPONSE)
 
-## END
+## END CODE
